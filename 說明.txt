@@ -1,0 +1,6 @@
+2class_1D-CNN為2類的1D-CNN訓練
+2class_2D-CNN為2類的2D-CNN訓練
+2class_GA-LSTM為2類的GA-LSTM訓練
+4class_2D-CNN為4類的2D-CNN訓練
+資料轉圖片為將原本的NPY檔轉換為圖片的程式碼
+數據增生為將圖片進行增生並儲存的程式碼
